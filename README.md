@@ -19,3 +19,7 @@ A Game Boy emulator, written in C and SDL.
 - D to open the GPU Tiletset Display Window
 - Q to quit the emulator
 - Number Keys 1 - 5 to switch between palettes
+
+---
+
+![](https://github.com/andrei-im/Game-Boy-Emulator/assets/140911873/c9f61feb-fc5e-4b96-a48a-a7a75bfb9327)
